@@ -172,3 +172,36 @@ provided by the bot. You will only need to do this once across all repos using o
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+
+
+> Open this page at [https://lbaitemple.github.io/pxt-maker/](https://lbaitemple.github.io/pxt-maker/)
+
+## Use as Extension
+
+This repository can be added as an **extension** in MakeCode.
+
+* open [https://maker.makecode.com/](https://maker.makecode.com/)
+* click on **New Project**
+* click on **Extensions** under the gearwheel menu
+* search for **https://github.com/lbaitemple/pxt-maker** and import
+
+## Edit this project ![Build status badge](https://github.com/lbaitemple/pxt-maker/workflows/MakeCode/badge.svg)
+
+To edit this repository in MakeCode.
+
+* open [https://maker.makecode.com/](https://maker.makecode.com/)
+* click on **Import** then click on **Import URL**
+* paste **https://github.com/lbaitemple/pxt-maker** and click import
+
+## Blocks preview
+
+This image shows the blocks code from the last commit in master.
+This image may take a few minutes to refresh.
+
+![A rendered view of the blocks](https://github.com/lbaitemple/pxt-maker/raw/master/.github/makecode/blocks.png)
+
+#### Metadata (used for search, rendering)
+
+* for PXT/maker
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
